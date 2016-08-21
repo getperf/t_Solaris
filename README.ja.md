@@ -56,7 +56,7 @@ Install
 Git Hub からプロジェクトをクローンします。
 
 ```
-(git clone してプロジェクト複製)
+git clone https://github.com/getperf/t_Solaris
 ```
 
 プロジェクトディレクトリに移動して、--template オプション付きでサイトの初期化をします。
